@@ -1,0 +1,104 @@
+.r-1vtznih {
+  background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.09) 0%, rgba(0, 0, 0, 0.09) 100%) bottom,
+    linear-gradient(to bottom, var(--themeengine) 0%, var(--themeengine) 100%) top !important;
+}
+.r-yuvema {
+  background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.2) 0%, rgba(0, 0, 0, 0.2) 100%) bottom,
+    linear-gradient(to bottom, var(--themeengine) 0%, var(--themeengine) 100%) top !important;
+}
+.r-1dhjtlp {
+  background:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.42) 0%, rgba(255, 255, 255, 0.42) 100%) bottom,
+    linear-gradient(to bottom, var(--themeengine) 0%, var(--themeengine) 100%) top !important;
+}
+
+.r-1h7almx {
+  background-color: none !important;
+  background:
+    linear-gradient(to bottom, rgba(0, 0, 0, 0.85) 0%, rgba(0, 0, 0, 0.85) 100%) bottom,
+    linear-gradient(to bottom, var(--themeengine) 0%, var(--themeengine) 100%) top !important;
+}
+
+div[style="background-color: rgb(142, 205, 248);"] {
+  background-color: none !important;
+  background:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0.5) 100%) bottom,
+    linear-gradient(to bottom, var(--themeengine) 0%, var(--themeengine) 100%) top !important;
+}
+
+
+
+.r-1peqgm7 {
+  background-color: rgba(var(--themeengine-rgb), 0.2) !important;
+}
+.r-1w2mbsr {
+  background-color: rgba(var(--themeengine-rgb), 0.12) !important;
+}
+
+.r-r18ze4 {
+  background-color: rgba(var(--themeengine-rgb), 0.2) !important;
+}
+
+.r-1eltapf {
+  background-color: rgba(var(--themeengine-rgb), 0.14) !important;
+}
+
+
+
+div[role="progressbar"] svg circle[stroke="#1D9BF0"] {
+  stroke: var(--themeengine) !important;
+}
+
+div[role="progressbar"] svg circle[style*="stroke: rgb(29, 155, 240)"] {
+  stroke: var(--themeengine) !important;
+}
+
+.r-1pbtemp {
+  border-right-color: var(--themeengine) !important;
+}
+
+.r-vhj8yc {
+  border-color: var(--themeengine) !important;
+}
+
+.r-6416eg {
+  transition-property: box-shadow !important;
+}
+
+div[data-testid="tweetButton"][style="background-color: rgb(29, 155, 240);"] {
+  background-color: var(--themeengine) !important;
+}
+
+.r-1cvl2hr {
+  color: var(--themeengine) !important;
+}
+
+.r-l5o3uw {
+  background-color: var(--themeengine) !important;
+}
+
+a[data-testid="SideNav_NewTweet_Button"] {
+  background-color: var(--themeengine) !important;
+}
+
+link[rel="mask-icon"] {
+  color: var(--themeengine) !important;
+}
+
+div[style*="border-color: rgb(29, 155, 240);"] {
+  border-color: var(--themeengine) !important;
+}
+
+div[style="color: rgb(29, 155, 240);"] {
+  color: var(--themeengine) !important;
+}
+
+div[style="color: rgb(29, 155, 240);"] > svg {
+  color: var(--themeengine) !important;
+}
+
+a[style="color: rgb(29, 155, 240);"] {
+  color: var(--themeengine) !important;
+}
