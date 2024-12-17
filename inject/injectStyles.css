@@ -1,3 +1,58 @@
 :root {
   opacity: 1;
+  animation: rainbow-cycle 2.5s infinite linear, rainbow-cycle-2 2.5s infinite linear;
+}
+
+@keyframes rainbow-cycle-2 {
+  0%   { --chroma: hsl(0, 100%, 50%); }      /* Red */
+  2%   { --chroma: hsl(7.2, 100%, 50%); }    /* Very slight orange */
+  4%   { --chroma: hsl(14.4, 100%, 50%); }   /* Orange */
+  6%   { --chroma: hsl(21.6, 100%, 50%); }   /* Orange-Yellow */
+  8%   { --chroma: hsl(28.8, 100%, 50%); }   /* Yellow */
+  10%  { --chroma: hsl(36, 100%, 50%); }     /* Yellow-Green */
+  12%  { --chroma: hsl(43.2, 100%, 50%); }   /* Green-Yellow */
+  14%  { --chroma: hsl(50.4, 100%, 50%); }   /* Green */
+  16%  { --chroma: hsl(57.6, 100%, 50%); }   /* Green-Cyan */
+  18%  { --chroma: hsl(64.8, 100%, 50%); }   /* Cyan-Green */
+  20%  { --chroma: hsl(72, 100%, 50%); }     /* Cyan */
+  22%  { --chroma: hsl(79.2, 100%, 50%); }   /* Cyan-Blue */
+  24%  { --chroma: hsl(86.4, 100%, 50%); }   /* Blue-Cyan */
+  26%  { --chroma: hsl(93.6, 100%, 50%); }   /* Blue */
+  28%  { --chroma: hsl(100.8, 100%, 50%); }  /* Blue-Indigo */
+  30%  { --chroma: hsl(108, 100%, 50%); }    /* Indigo */
+  32%  { --chroma: hsl(115.2, 100%, 50%); }  /* Indigo-Purple */
+  34%  { --chroma: hsl(122.4, 100%, 50%); }  /* Purple */
+  36%  { --chroma: hsl(129.6, 100%, 50%); }  /* Purple-Red */
+  38%  { --chroma: hsl(136.8, 100%, 50%); }  /* Red-Purple */
+  40%  { --chroma: hsl(144, 100%, 50%); }    /* Red */
+  42%  { --chroma: hsl(151.2, 100%, 50%); }  /* Red-Pink */
+  44%  { --chroma: hsl(158.4, 100%, 50%); }  /* Pink-Red */
+  46%  { --chroma: hsl(165.6, 100%, 50%); }  /* Pink */
+  48%  { --chroma: hsl(172.8, 100%, 50%); }  /* Pink-Orange */
+  50%  { --chroma: hsl(180, 100%, 50%); }    /* Orange */
+  52%  { --chroma: hsl(187.2, 100%, 50%); }  /* Orange-Yellow */
+  54%  { --chroma: hsl(194.4, 100%, 50%); }  /* Yellow */
+  56%  { --chroma: hsl(201.6, 100%, 50%); }  /* Yellow-Green */
+  58%  { --chroma: hsl(208.8, 100%, 50%); }  /* Green */
+  60%  { --chroma: hsl(216, 100%, 50%); }    /* Green-Cyan */
+  62%  { --chroma: hsl(223.2, 100%, 50%); }  /* Cyan */
+  64%  { --chroma: hsl(230.4, 100%, 50%); }  /* Cyan-Blue */
+  66%  { --chroma: hsl(237.6, 100%, 50%); }  /* Blue */
+  68%  { --chroma: hsl(244.8, 100%, 50%); }  /* Blue-Indigo */
+  70%  { --chroma: hsl(252, 100%, 50%); }    /* Indigo */
+  72%  { --chroma: hsl(259.2, 100%, 50%); }  /* Indigo-Purple */
+  74%  { --chroma: hsl(266.4, 100%, 50%); }  /* Purple */
+  76%  { --chroma: hsl(273.6, 100%, 50%); }  /* Purple-Red */
+  78%  { --chroma: hsl(280.8, 100%, 50%); }  /* Red-Purple */
+  80%  { --chroma: hsl(288, 100%, 50%); }    /* Red */
+  82%  { --chroma: hsl(295.2, 100%, 50%); }  /* Red-Pink */
+  84%  { --chroma: hsl(302.4, 100%, 50%); }  /* Pink */
+  86%  { --chroma: hsl(309.6, 100%, 50%); }  /* Pink-Orange */
+  88%  { --chroma: hsl(316.8, 100%, 50%); }  /* Orange */
+  90%  { --chroma: hsl(324, 100%, 50%); }    /* Orange-Yellow */
+  92%  { --chroma: hsl(331.2, 100%, 50%); }  /* Yellow */
+  94%  { --chroma: hsl(338.4, 100%, 50%); }  /* Yellow-Green */
+  96%  { --chroma: hsl(345.6, 100%, 50%); }  /* Green */
+  98%  { --chroma: hsl(352.8, 100%, 50%); }  /* Green-Cyan */
+  100% { --chroma: hsl(0, 100%, 50%); }      /* Back to Red */
 }
