@@ -1,7 +1,7 @@
 # TwitterThemeEngine
-Simple Chrome Extension that customizes the color scheme of Twitter.
+Simple Chrome Extension that customizes the color scheme of Twitter/X.
 
-![Alt text](https://cdn.discordapp.com/attachments/1183275499112386630/1183275528787066890/twitter_theme_engine.png?ex=6587be36&is=65754936&hm=086596b7bc16b46363e688292569634e2bd04f704c204da320c04776a30d17b2&)
+![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318704597367263365/icon128.png?ex=67634adc&is=6761f95c&hm=fa3335d28699ac3d2d24c7a67c840e5a462271c29d24603b5c1f26912f8a1ed1&)
 
 ![Alt text](https://cdn.discordapp.com/attachments/1183275499112386630/1183276069642584176/image.png?ex=6587beb7&is=657549b7&hm=2a1cbd351acc3466849582f0c5971a5280c4088be3a277545188f2d465910889&)
 # Settings
