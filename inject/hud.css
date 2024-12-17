@@ -102,3 +102,12 @@ div[style="color: rgb(29, 155, 240);"] > svg {
 a[style="color: rgb(29, 155, 240);"] {
   color: var(--themeengine) !important;
 }
+
+div[style*="color: rgb(29, 155, 240);"] {
+  color: var(--themeengine) !important;
+}
+
+/*makes everything blue the color of choice*/
+*[style*="color: rgb(29, 155, 240);"] {
+  color: var(--themeengine) !important;
+}
