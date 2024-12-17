@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Twitter[Theme Engine]",
   "description": "Customize the color scheme of Twitter",
-  "version": "0.7",
+  "version": "0.9",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -11,7 +11,7 @@
   "content_scripts": [{
     "js": ["inject/inject.js"],
     "css": ["inject/hud.css"],
-    "matches": ["https://twitter.com/*"]
+    "matches": ["https://x.com/*"]
   }],
   "action": {
     "default_icon": {
@@ -28,7 +28,7 @@
   },
   "update_url": "https://clients2.google.com/service/update2/crx",
   "web_accessible_resources": [ {
-    "matches": ["https://twitter.com/*"],
+    "matches": ["https://x.com/*"],
     "resources": ["inject/injectStyles.css"] 
   }],
   "permissions": ["storage"]
