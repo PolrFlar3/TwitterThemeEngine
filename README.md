@@ -5,14 +5,14 @@ Simple Chrome Extension that customizes the color scheme of Twitter/X.
 
 ![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318704914876338257/image.png?ex=67634b28&is=6761f9a8&hm=e4a3280dfad08a3ddf241531e6a135567f346537ddd64ae753a6f5ee567a70d2&)
 # Settings
-## In the main section can you change the color of the main color scheme using either rgb values or hex color coding.
+## In the main section can you change the color of the main color scheme using either rgb values or hex color coding. (NEW FEATURE: type in "chroma" in either main color config or border light config to see an animated rainbow color cycle) 
 ## In the font config section, you can either use the current new font config or the previous font config (Helvetica)
 ## In the border light config, you can either turn it off or on. When the border light is on, the background of the main center page will have an outer glow to it in any color of your choosing with a radius of any size (reasonable size).
 
 # Examples
 ### Outerspace theme(custom)
-![Alt text](https://cdn.discordapp.com/attachments/1183275499112386630/1183278183970254848/image.png?ex=6587c0af&is=65754baf&hm=56851a67f916cf4eafe216a0fddd12a35de0ccb365dadda57980b0f899f20baf&)
+![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318705509418795198/image.png?ex=67634bb5&is=6761fa35&hm=13c8c81790aada6ff6e8831a2e5059f8148d2057bd213f402841b7e1756ce97e&)
 ### Christmas theme(custom)
-![Alt text](https://cdn.discordapp.com/attachments/1183275499112386630/1183278662968156160/image.png?ex=6587c121&is=65754c21&hm=db35bbd7bccd6a4a3384bdbbfafff053e7f834ecc7056867eb6c3975fae8bd46&)
-### Constrast theme(custom)
-![Alt text](https://cdn.discordapp.com/attachments/1183275499112386630/1183278877087371314/image.png?ex=6587c154&is=65754c54&hm=303695a24aabff1b34fa60af8709cf686db316f134c9ea5a69a950b421956ddb&)
+![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318706011317604464/image.png?ex=67634c2d&is=6761faad&hm=20a93a47d4b349f3731f4b865f2462e22807f617ede4cb7e0d2e49a50172a676&)
+### Chroma theme(custom)
+![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318706333159260220/2024-12-17_15-44-48.gif?ex=67634c7a&is=6761fafa&hm=837f970832051837b63c7da5bc9dfe1e7ae4225986a041b4c4a689fc05b84ac6&)
