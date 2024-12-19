@@ -111,3 +111,24 @@ div[style*="color: rgb(29, 155, 240);"] {
 *[style*="color: rgb(29, 155, 240);"] {
   color: var(--themeengine) !important;
 }
+
+
+.css-175oi2r.r-xoduu5.r-1kihuf0.r-sdzlij.r-1p0dtai.r-hdaws3.r-s8bhmr.r-u8s1d.r-13qz1uu[style*="color: rgb(29, 155, 240);"] {
+  background-color: var(--themeengine) !important;
+}
+
+/*lol basically since we werent able to change the link color on visited because of security, we just got the parent element of the link and changed it*/
+.css-175oi2r.r-xoduu5:has(a) {
+  color: var(--themeengine) !important;
+}
+
+.css-1jxf684.r-bcqeeo.r-1ttztb7.r-qvutc0.r-poiln3.r-1loqt21[style*="color: rgb(29, 155, 240);"]:link {
+  font-weight: bold !important;
+  text-decoration: none !important;
+  color: inherit !important;
+}
+
+.css-1jxf684.r-bcqeeo.r-1ttztb7.r-qvutc0.r-poiln3.r-1loqt21[style*="color: rgb(29, 155, 240);"]:visited {
+  text-decoration: none !important;
+  color: inherit !important;
+}
