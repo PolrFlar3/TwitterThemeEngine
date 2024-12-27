@@ -15,4 +15,4 @@ Simple Chrome Extension that customizes the color scheme of Twitter/X.
 ### Christmas theme(custom)
 ![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318706011317604464/image.png?ex=67634c2d&is=6761faad&hm=20a93a47d4b349f3731f4b865f2462e22807f617ede4cb7e0d2e49a50172a676&)
 ### Chroma theme(custom)
-![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318706333159260220/2024-12-17_15-44-48.gif?ex=67634c7a&is=6761fafa&hm=837f970832051837b63c7da5bc9dfe1e7ae4225986a041b4c4a689fc05b84ac6&)
+![Alt text](https://cdn.discordapp.com/attachments/1103911646390390798/1318706333159260220/2024-12-17_15-44-48.gif?ex=676f29fa&is=676dd87a&hm=1ae311d7c260d76c2a3381c12a29d27aa0fe3805909fbbc44890e8e09d15a25f&)
